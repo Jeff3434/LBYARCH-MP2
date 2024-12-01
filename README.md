@@ -17,5 +17,4 @@ The average time for this case was 0.001418104 seconds. This case is also less t
 Program Output and Correctness Check
 ![image](https://github.com/user-attachments/assets/74c60584-8474-4d32-ab05-79ce3a4fb9f7)
 ![image](https://github.com/user-attachments/assets/5ef3aea2-1297-4193-b8a8-764dd6925e87)
-
 After running the test case provided by AnimoSpace Canvas, it can be said that the program is calculating the grayscale images correctly. Although there are cases where the value is off by 1, it's usually because the converted double is rounded up. The output can easily be verified by simply multiplying the double by 255.
