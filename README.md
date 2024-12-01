@@ -1,5 +1,7 @@
 # LBYARCH-MP2
 
+Jeff Uriel V. Fonte
+
 1. The test cases used in this analysis are uploaded to the GitHub repository. These files are named 'input10.txt', 'input100.txt', and 'input1000.txt'. Respectively, they each contain 10x10, 100x100, and 1000x1000 pixel values. These values are randomly generated from a Python program.
 2. To run this program, a Windows Batch file was created to run the necessary command line prompts to create the Executable File. The output will be displayed in an 'output.txt' text file. Each input file can be tested by changing the input file name from 'mp2.bat'.
 3. The C program runs the program 50 times and calculates the average time using the function from SASM. Once run, the converted pixel values and the average execution time will be displayed.
